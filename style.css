@@ -1,0 +1,11 @@
+.header {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: lightseagreen;
+  color:maroon;
+  position: absolute;
+  padding:20px
+}
+
+.box{
+    text-align: center;
+}
